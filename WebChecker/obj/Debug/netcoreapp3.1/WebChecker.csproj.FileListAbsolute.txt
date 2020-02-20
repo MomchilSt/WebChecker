@@ -1,0 +1,11 @@
+D:\Projects\Work\webChecker\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.exe
+D:\Projects\Work\webChecker\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.deps.json
+D:\Projects\Work\webChecker\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.runtimeconfig.json
+D:\Projects\Work\webChecker\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.runtimeconfig.dev.json
+D:\Projects\Work\webChecker\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.dll
+D:\Projects\Work\webChecker\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.pdb
+D:\Projects\Work\webChecker\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.csprojAssemblyReference.cache
+D:\Projects\Work\webChecker\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.AssemblyInfoInputs.cache
+D:\Projects\Work\webChecker\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.AssemblyInfo.cs
+D:\Projects\Work\webChecker\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.dll
+D:\Projects\Work\webChecker\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.pdb
