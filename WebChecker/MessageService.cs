@@ -7,9 +7,9 @@ namespace WebChecker
     {
         static string smtpAddress = "smtp.gmail.com";
         static int portNumber = 587;
-        static string emailFromAddress = "momo420test@gmail.com"; //Sender Email Address  
-        static string password = "test420M";                      //Sender Password  
-        static string emailToAddress = "leatherpuffy@gmail.com"; //Receiver Email Address  
+        static string emailFromAddress = "@gmail.com"; //Sender Email Address  
+        static string password = "";                      //Sender Password  
+        static string emailToAddress = "@gmail.com"; //Receiver Email Address  
         static string subject = "Something unexpected happend!";
 
         public static void SendEmail(string body)
